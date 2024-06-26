@@ -25,5 +25,5 @@ The **ETH Bridge DApp** is a decentralized application designed to facilitate th
 
 ### Usage Scenario
 
-The ETH Bridge DApp is ideal for developers and testers who need to simulate cross-chain ETH transfers between Ethereum's test networks. By providing a reliable environment for these operations, it helps in the development and testing of cross-chain applications and protocols.
+The ETH Bridge DApp is ideal for developers and testers who need to simulate cross-chain ETH transfers between Ethereum's test networks. By providing a reliable environment for these operations, it helps in the development and testing of cross-chain applications and protocols.And testnet can be used to test protocol.
 
