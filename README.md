@@ -21,7 +21,6 @@ The **ETH Bridge DApp** is a decentralized application designed to facilitate th
 ### Smart Contracts
 
 - **SepoliaBridge**: Handles the locking of ETH on the Sepolia testnet, emitting events to signal ETH has been locked.
-- **HoleskyBridge**: Manages the simulated release of ETH on the Holesky testnet, ensuring only authorized transfers are processed.
 
 ### Usage Scenario
 
