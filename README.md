@@ -9,7 +9,6 @@ The **ETH Bridge DApp** is a decentralized application designed to facilitate th
 - **Lock ETH on Sepolia**: Securely lock ETH on the Sepolia testnet using a dedicated smart contract. This process simulates the sending of ETH to a bridge contract for cross-chain transfer.
 - **Release ETH on Holesky**: Simulate the release of ETH on the Holesky testnet, mimicking the arrival of funds on the destination network after they have been bridged.
 - **User-Friendly Interface**: The application features a clean and intuitive React-based frontend, allowing users to easily interact with the bridge functionalities.
-- **Ethereum Integration**: Utilizes MetaMask for Ethereum network interactions, providing a familiar and secure interface for users.
 
 ### Technologies Used
 
