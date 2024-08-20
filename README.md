@@ -15,7 +15,7 @@ The **ETH Bridge DApp** is a decentralized application designed to facilitate th
 - **Solidity**: Smart contracts written in Solidity to manage ETH locking and releasing operations on Sepolia and Holesky testnets.
 - **React**: Frontend built with React to provide a responsive and engaging user experience.
 - **Ethers.js**: JavaScript library for interacting with the Ethereum blockchain, enabling seamless integration with MetaMask and smart contracts.
-- **Hardhat**: Development environment for compiling, deploying, testing, and debugging Ethereum software, used for managing smart contracts.
+- **Hardhat**: Development environment for compiling, deploying, testing, and debugging Ethereum software, used for managing smart contracts in solidity.
 
 ### Smart Contracts
 
